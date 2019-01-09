@@ -1,0 +1,36 @@
+﻿  main.cpp
+g:\opencvstudyproject\fog\fog\main.cpp(73): warning C4305: “初始化”: 从“double”到“float”截断
+g:\opencvstudyproject\fog\fog\main.cpp(81): warning C4018: “<”: 有符号/无符号不匹配
+g:\opencvstudyproject\fog\fog\main.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+g:\opencvstudyproject\fog\fog\main.cpp(111): warning C4305: “初始化”: 从“double”到“float”截断
+g:\opencvstudyproject\fog\fog\main.cpp(113): warning C4018: “<”: 有符号/无符号不匹配
+g:\opencvstudyproject\fog\fog\main.cpp(115): warning C4018: “<”: 有符号/无符号不匹配
+g:\opencvstudyproject\fog\fog\main.cpp(131): warning C4305: “初始化”: 从“double”到“float”截断
+g:\opencvstudyproject\fog\fog\main.cpp(137): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+g:\opencvstudyproject\fog\fog\main.cpp(137): warning C4244: “参数”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+g:\opencvstudyproject\fog\fog\main.cpp(153): warning C4305: “初始化”: 从“double”到“float”截断
+g:\opencvstudyproject\fog\fog\main.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
+g:\opencvstudyproject\fog\fog\main.cpp(163): warning C4018: “<”: 有符号/无符号不匹配
+g:\opencvstudyproject\fog\fog\main.cpp(192): warning C4305: “初始化”: 从“double”到“float”截断
+g:\opencvstudyproject\fog\fog\main.cpp(194): warning C4018: “<”: 有符号/无符号不匹配
+g:\opencvstudyproject\fog\fog\main.cpp(196): warning C4018: “<”: 有符号/无符号不匹配
+g:\opencvstudyproject\fog\fog\main.cpp(215): warning C4305: “初始化”: 从“double”到“float”截断
+g:\opencvstudyproject\fog\fog\main.cpp(221): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+g:\opencvstudyproject\fog\fog\main.cpp(221): warning C4244: “参数”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=float
+          ]
+  fog.vcxproj -> G:\opencvStudyProject\fog\x64\Debug\fog.exe
